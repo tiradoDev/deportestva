@@ -1,0 +1,15 @@
+ {
+  "home": "https://snappers-jsons.s3.amazonaws.com/home-snappers.json",
+  "resultados": "https://develop.aztecadeportes.com/app2020/resultados.json",
+  "busqueda": "https://servicios.site/tva/aztecadeportes2019/busqueda.json?term={[SEARCHTXT]}",
+  "buzz": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/buzz.json",
+  "digitalmas": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/digital-app-2020.json",
+  "vivofeed": "https://snappers-jsons.s3.amazonaws.com/vivofeed.json",
+  "config": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/configuracion.json",
+  "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
+  "vivoheader": {
+    "live_indicator": "on",
+    "contenido": "https://snappers-jsons.s3.amazonaws.com/proximos-eventos.json",
+    "tipocontenido": "CP"
+  }
+}
