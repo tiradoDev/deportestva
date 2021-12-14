@@ -3,8 +3,10 @@
   "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home",
   "data": [
     {
-      "tipo": "BANNER01",
-      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+      "tipo": "LEAP",
+      "imagen": "https://raw.githubusercontent.com/tiradoDev/deportestva/main/leap_800X200.jpg",
+      "contenido": "https://app.playleap.io/web-parts/dareList",
+      "policy": "https://www.tvazteca.com/politicas.html"
     },
     {
       "tipo": "BANNER01",
