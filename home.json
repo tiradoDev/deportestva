@@ -6,6 +6,7 @@
       "tipo": "LEAP",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/deportestva/main/leap_800X200.jpg",
       "contenido": "https://app.playleap.io/web-parts/dareList",
+      "tipo_contenido": "LP",
       "policy": "https://www.tvazteca.com/politicas.html"
     },
     {
