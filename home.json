@@ -8,7 +8,8 @@
       "contenido": "https://appstg.playleap.io/",
       "tipo_contenido": "Section",
       "tipocontenido": "LP",
-      "policy": "https://www.tvazteca.com/politicas.html"
+      "policy": "https://www.tvazteca.com/politicas.html",
+      "private": "1"
     },
     {
       "tipo": "BANNER01",
