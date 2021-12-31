@@ -1,0 +1,56 @@
+{
+  "backgroundcolor": "#000000aa",
+  "daystoask": "1",
+  "disclosure": "Al ingresar reconoces estar de acuerdo con: Aviso legal de privacidad",
+  "disclosurecolor": "#ffffffff",
+  "disclosureurl": "https://www.tvazteca.com/politicas.html",
+  "firebase": {
+    "testnumber": "1",
+    "otrocampo": "1"
+  },
+  "indicatorselcolor": "#ffffffff",
+  "indicatorunselcolor": "#aaaaaaff",
+  "loginproviders": [
+    "facebook",
+    "google"
+  ],
+  "slides": [
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "EN UN SOLO PASO",
+      "subtitulo": "Inicia sesión por única vez y obtén acceso ilimitado.",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    },
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "PROGRAMACIÓN EN VIVO",
+      "subtitulo": "Sigue la transmisión de tus canales favoritos.",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    },
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "SIEMPRE GRATIS",
+      "subtitulo": "Disfruta todo el contenido SIN COSTO.",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    },
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "¡PARTICIPA CON NOSOTROS!",
+      "subtitulo": "Vota e interactúa con tus programas de televisión. ",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    }
+  ],
+  "tituloskip": "Iniciar sesión más tarde",
+  "tituloskipcolor": "#ffffffff",
+  "tituloskipsize": "20",
+  "tituloskipsombracolor": "#000000ff",
+  "video": "https://mdstrm.com/video/60e897639224c31c41877792.m3u8"
+}
