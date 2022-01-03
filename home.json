@@ -10,7 +10,7 @@
       "tipocontenido": "LP",
       "policy": "https://www.tvazteca.com/politicas.html",
       "private": "1",
-      "privateCfg": "https://tiradodev.github.io/deportestva/login.json"
+      "privateCfg": "https://www.tvazteca.com/envivo2020/logininicioconfig.json"
     },
     {
       "tipo": "BANNER01",
