@@ -1,0 +1,25 @@
+{
+  "marcador": "https://snappers-jsons.s3.amazonaws.com/575403.json",
+  "widget": "https://develop.aztecadeportes.com/superbowl/index.html",
+  "vivo": "https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8",
+  "highlights": "https://snappers-jsons.s3.amazonaws.com/highlights.json",
+  "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Futbol-Envivo",
+  "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/Futbol-Envivo&;amp;description_url=[placeholder]&amp;url=[placeholder]&amp;env=vp&amp;impl=s&amp;tfcd=0&amp;npa=0&amp;gdfp_req=1&amp;output=vast&amp;sz=640x480&amp;unviewed_position_start=1&amp;ad_rule=1&amp;correlator=",
+  "screenname": "Puebla vs Santos Laguna",
+  "tipo_contenido": "Live",
+  "nombre_contenido": "MÃ©xico - Liga MX - Live",
+  "video_titulo": "MÃ©xico - Liga MX - Live",
+  "video_aviso": "Live",
+  "deporte": "",
+  "liga": "",
+  "is_live": "true",
+  "programa_seccion": "MÃ©xico - Liga MX",
+  "subsecciones": [
+    {}
+  ],
+  "snappers": {
+    "gif": "",
+    "imagen": "https://s3.amazonaws.com/develop.aztecadeportes.com/imagenes/Logo-black.png",
+    "policy": "https://www.snappers.tv/terminos"
+  }
+}
