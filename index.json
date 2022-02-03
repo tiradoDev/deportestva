@@ -9,7 +9,7 @@
   "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
   "vivoheader": {
     "live_indicator": "on",
-    "contenido": "https://snappers-jsons.s3.amazonaws.com/proximos-eventos.json",
+    "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
     "tipocontenido": "CP"
   }
 }
