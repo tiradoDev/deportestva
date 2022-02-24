@@ -1,7 +1,7 @@
 {
   "marcador": "https://snappers-jsons.s3.amazonaws.com/575403.json",
   "widget": "https://develop.aztecadeportes.com/superbowl/index.html",
-  "vivo": "https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8",
+  "vivo": "https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/4ac036d9-f674-417a-b91d-04316b2334e7:CBF2/master.m3u8",
   "highlights": "https://snappers-jsons.s3.amazonaws.com/highlights.json",
   "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Futbol-Envivo",
   "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/Futbol-Envivo&;amp;description_url=[placeholder]&amp;url=[placeholder]&amp;env=vp&amp;impl=s&amp;tfcd=0&amp;npa=0&amp;gdfp_req=1&amp;output=vast&amp;sz=640x480&amp;unviewed_position_start=1&amp;ad_rule=1&amp;correlator=",
