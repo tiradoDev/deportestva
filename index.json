@@ -6,7 +6,7 @@
   "digitalmas": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/digital-app-2020.json",
   "vivofeed": "https://tiradodev.github.io/deportestva/vivofeed.json",
   "config": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/configuracion.json",
-  "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
+  "actualizacion": "https://tiradodev.github.io/deportestva/actualizacion.json",
   "vivoheader": {
     "live_indicator": "on",
     "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
