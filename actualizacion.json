@@ -1,0 +1,14 @@
+{
+  "android": {
+    "min_version": "9.1.3",
+    "imagen_fondo": "https://develop.aztecadeportes.com/imagenes/actualiza-app.png",
+    "url_actualizar": "https://play.google.com/store/apps/details?id=com.tvazteca.deportes",
+    "texto": ""
+  },
+  "ios": {
+    "min_version": "8.31",
+    "imagen_fondo": "https://develop.aztecadeportes.com/imagenes/actualiza-app.png",
+    "url_actualizar": "https://itunes.apple.com/mx/app/azteca-deportes/id376791387?mt=8",
+    "texto": ""
+  }
+}
