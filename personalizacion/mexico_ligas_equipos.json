@@ -1,0 +1,56 @@
+{	
+	"screen": "México - Ligas y equipos",
+	"data": [
+		{
+			"title": "México - Ligas y torneos",
+			"cellType": "collection_1",
+			"items": [
+				{
+					"name": "Liga MX",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				},
+				{
+					"name": "Liga Expansión MX",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				},
+				{
+					"name": "La Liga",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				}
+			]
+		},
+		{
+			"cellType": "BANNER01",
+			"adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+		},
+		{
+			"title": "México - Equipos",
+			"cellType": "collection_4",
+			"items": [
+				{
+					"name": "América",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				},
+				{
+					"name": "Chivas",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				},
+				{
+					"name": "Atlas",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				},
+				{
+					"name": "Cruz Azul",
+					"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+					"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+				}
+			]
+		}
+	]
+}

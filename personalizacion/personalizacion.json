@@ -1,0 +1,84 @@
+{
+  "screen": "Personalización",
+  "data": [
+    { 
+      "cellType": "BANNER01",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+    },
+    {
+      "cellType": "collection_2",
+      "title": "Selecciona tus deportes favoritos",
+      "items": [
+        {
+          "name": "Fut Azteca",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Fútbol Americano",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Azteca Home Run",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Básquetbol",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Tenis",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Automovilísmo",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        }
+      ]
+    },
+    {
+      "cellType": "BANNER01",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+    },
+    {
+      "cellType": "collection_2",
+      "title": "",
+      "items": [
+        {
+          "name": "Box Azteca",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Azteca eSports",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Azteca Lucha",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Azteca Golf",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        },
+        {
+          "name": "Los Protagonistas",
+          "icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+          "href": "https://tvazteca.com/aztecadeportes/api/subscriptions/sports/futbol/leagues"
+        }
+      ]
+    },
+    {
+      "cellType": "BANNER01",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+    }
+  ]
+}
