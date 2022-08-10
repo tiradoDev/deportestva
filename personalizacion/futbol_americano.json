@@ -1,245 +1,245 @@
 {
-	"screen": "Futbol Americano - Equipos",
-	"data": [
-		{
-			"cellType": "categoryCollection",
-			"title": "",
-			"items": [
-				{
-					"title": "Conferencia Americana",
-					"items": [
-						{
-							"cellType": "BANNER01",
-							"adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
-						},
-						{
-							"title": "AFC Este",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Bills",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Dolphins",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Patriots",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Jets",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"title": "AFC Norte",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Revens",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Bengals",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Browns",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Steelers",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"title": "AFC Oeste",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Broncos",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Chiefs",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Raiders",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Chargers",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"cellType": "BANNER01",
-							"adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
-						},
-						{
-							"title": "AFC Sur",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Texans",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Colts",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Jaguars",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Titans",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						}
-					]
-				},
-				{
-					"title": "Conferencia Nacional",
-					"items": [
-						{
-							"cellType": "BANNER01",
-							"adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
-						},
-						{
-							"title": "AFC Este",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Cowboys",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Giants",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Eagles",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Commanders",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"title": "AFC Norte",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Bears",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Lions",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Packers",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Vikings",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"title": "AFC Oeste",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Cardinals",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Rams",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "49ers",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Seahawks",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						},
-						{
-							"cellType": "BANNER01",
-							"adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
-						},
-						{
-							"title": "AFC Sur",
-							"cellType": "collection_4",
-							"items": [
-								{
-									"name": "Cardinals",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Rams",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "49ers",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
-									"name": "Seahawks",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								}
-							]
-						}
-					]
-				}
-			]
-		}
-	]
+  "screen": "Futbol Americano - Equipos",
+  "data": [
+    {
+      "cellType": "categoryCollection",
+      "title": "",
+      "items": [
+        {
+          "title": "Conferencia Americana",
+          "items": [
+            {
+              "cellType": "BANNER01",
+              "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+            },
+            {
+              "title": "AFC Este",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Bills",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-1.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Dolphins",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-6.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Patriots",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-10.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Jets",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-13.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "title": "AFC Norte",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Revens",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Bengals",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-2.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Browns",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-5.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Steelers",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-7.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "title": "AFC Oeste",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Broncos",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-3.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Chiefs",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-8.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Raiders",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-11.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Chargers",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-14.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "cellType": "BANNER01",
+              "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+            },
+            {
+              "title": "AFC Sur",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Texans",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-4.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Colts",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-9.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Jaguars",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-12.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Titans",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-15.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conferencia Nacional",
+          "items": [
+            {
+              "cellType": "BANNER01",
+              "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+            },
+            {
+              "title": "AFC Este",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Cowboys",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-16.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Giants",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-20.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Eagles",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-24.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Commanders",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-28.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "title": "AFC Norte",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Bears",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-17.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Lions",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-21.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Packers",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-25.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Vikings",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-29.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "title": "AFC Oeste",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Cardinals",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-18.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Rams",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-22.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "49ers",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-26.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Seahawks",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-30.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            },
+            {
+              "cellType": "BANNER01",
+              "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+            },
+            {
+              "title": "AFC Sur",
+              "cellType": "collection_4",
+              "items": [
+                {
+                  "name": "Cardinals",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-19.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Rams",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-23.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "49ers",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-27.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                },
+                {
+                  "name": "Seahawks",
+                  "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/americano/Rectangle%20127-31.png",
+                  "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
