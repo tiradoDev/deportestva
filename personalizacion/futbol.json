@@ -38,17 +38,17 @@
 							"cellType": "collection_1",
 							"items": [
 								{
-									"name": "Mayor League Soccer",
-									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-								},
-								{
 									"name": "Champions League",
 									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
 									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
 								},
 								{
-									"name": "Concacaf Champions League",
+									"name": "Eurocopa League",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								},
+								{
+									"name": "Supercopa UEFA",
 									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
 									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
 								}
@@ -69,7 +69,7 @@
 									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
 								},
 								{
-									"name": "Copa América",
+									"name": "Eurocopa",
 									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
 									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
 								}
