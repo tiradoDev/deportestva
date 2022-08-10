@@ -1,4 +1,4 @@
-{	
+{
 	"screen": "Países y Torneos",
 	"data": [
 		{
@@ -31,46 +31,53 @@
 			"title": "",
 			"items": [
 				{
-					"cellType": "collection_1",
-					"title": "",
-					"categoryTitle": "Torneos de clubes",
+					"title": "Torneos de clubes",
 					"items": [
 						{
-							"name": "Mayor League Soccer",
-							"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-							"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-						},
-						{
-							"name": "Champions League",
-							"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-							"id": "0000016b-d782-d4db-a97f-f7aa95300000"				
-						},
-						{
-							"name": "Concacaf Champions League",
-							"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-							"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+							"title": "",
+							"cellType": "collection_1",
+							"items": [
+								{
+									"name": "Mayor League Soccer",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								},
+								{
+									"name": "Champions League",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								},
+								{
+									"name": "Concacaf Champions League",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								}
+							]
 						}
 					]
 				},
 				{
-					"cellType": "collection_1",
-					"title": "",
-					"categoryTitle": "Torneos de selecciones",
+					"title": "Torneos de selecciones",
 					"items": [
 						{
-							"name": "Copa del Mundo Qatar 2022",
-							"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-							"id": "0000016b-d782-d4db-a97f-f7aa95300000"
-							
-						},
-						{
-							"name": "Copa América",
-							"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
-							"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+							"title": "",
+							"cellType": "collection_1",
+							"items": [
+								{
+									"name": "Copa del Mundo Qatar 2022",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								},
+								{
+									"name": "Copa América",
+									"icon": "https://tvazteca.brightspotcdn.com/dims4/default/78d0ea7/2147483647/strip/true/crop/1658x508+0+0/resize/150x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F89%2F42%2F151d92b4442caa1ecfe2392e717b%2Ffut-azteca-sitio2.png",
+									"id": "0000016b-d782-d4db-a97f-f7aa95300000"
+								}
+							]
 						}
 					]
 				}
 			]
-}
-]
+		}
+	]
 }
