@@ -8,17 +8,17 @@
         {
           "name": "Liga MX",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/image%2019.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid09"
         },
         {
           "name": "Liga Expansión MX",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/image%2019-1.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid10"
         },
         {
           "name": "Selección Azteca",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/image%2019-2.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid11"
         }
       ]
     },
@@ -33,22 +33,22 @@
         {
           "name": "América",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/Rectangle%20127.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid12"
         },
         {
           "name": "Atlas",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/Rectangle%20127-1.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid13"
         },
         {
           "name": "Cruz Azul",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/Rectangle%20127-2.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid14"
         },
         {
           "name": "Chivas",
           "icon": "https://tiradodev.github.io/deportestva/personalizacion/imagenes/fut_mexico/Rectangle%20127-3.png",
-          "id": "0000016b-d782-d4db-a97f-f7aa95300000"
+          "id": "0000016b-d782-d4db-a97f-itemid15"
         }
       ]
     }
