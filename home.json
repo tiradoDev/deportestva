@@ -23,7 +23,7 @@
         "Liga MX",
         "Los 4 Grandes"
       ],
-      "contenido": "https://d3mxhnyh91f1q5.cloudfront.net/"
+      "contenido": "https://d3mxhnyh91f1q5.cloudfront.net?transitionToken={[TOKEN]}"
     },
     {
       "tipo": "LEAP",
