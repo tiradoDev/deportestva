@@ -2,6 +2,29 @@
   "update": "06-05-2021 08:57:03",
   "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home",
   "data": [
+        {
+      "titulo": "Quiniela",
+      "subtitulo": "El capitÃ¡n JesÃºs Molina y Chivas se medirÃ¡n a Pachuca por un boleto a los cuartos de final de la liguilla por la vÃ­a del Repechaje de la Liga BBVA MX.",
+      "seccion": "Liga MX",
+      "imagen": "https://tiradodev.github.io/deportestva/quinielaImg.png",
+      "tipo": "VIVOGIF",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Fut-Azteca/Los-4-Grandes-Liga-Mx/Notas",
+      "vast": "",
+      "tipocontenido": "WV",
+      "icohex": "f1ea",
+      "compartir": "https://d3mxhnyh91f1q5.cloudfront.net/",
+      "screenname": "Fut Azteca - Liga MX - Los 4 Grandes - Article",
+      "tipo_contenido": "Article",
+      "nombre_contenido": "En Chivas agradecen la existencia del Repechaje",
+      "deporte": "",
+      "liga": "",
+      "programa_seccion": "Fut Azteca",
+      "subsecciones": [
+        "Liga MX",
+        "Los 4 Grandes"
+      ],
+      "contenido": "https://d3mxhnyh91f1q5.cloudfront.net/"
+    },
     {
       "tipo": "LEAP",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/deportestva/main/leap_800X200.jpg",
