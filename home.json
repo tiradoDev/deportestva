@@ -30,7 +30,7 @@
     {
       "tipo": "LEAP",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/deportestva/main/leap_800X200.jpg",
-      "contenido": "https://d3mxhnyh91f1q5.cloudfront.net?transitionToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGciOiJSUzI1NiIsInN1YiI6IkFBQTRBMDcyNzZGQTRDMzA5M0Y5NDFDOUNEMUJCREZEIiwidGltZXN0YW1wIjoxNjYwODYwMTQ3NDk4LCJpYXQiOjE2NjA4NjAxNDcsImV4cCI6MTY2MTEwMDE0N30.OdNpDdglkhrGI64T2GClNyfbzLfUeoe1kkkDo91whm8",
+      "contenido": "https://appstg.playleap.io/",
       "tipo_contenido": "Section",
       "tipocontenido": "LP",
       "policy": "https://www.tvazteca.com/politicas.html",
