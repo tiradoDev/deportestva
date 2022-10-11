@@ -2211,7 +2211,7 @@
   "seldeportes": [
     {
       "tipo": "SELDEP",
-      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/UAT/secciones/el-canal-del-mundial.json",
+      "contenido": "https://tiradodev.github.io/deportestva/circulo_mundial.json",
       "imagen": "https://tv-azteca-brightspot-lower.s3.amazonaws.com/ca/ba/4824daea44dbb43b872dc8d93adc/logo-ok-canal-del-mundial.png",
       "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/azteca-golf/Home",
       "colorborde": "#660029",
