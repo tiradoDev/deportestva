@@ -12,8 +12,8 @@
       {
         "titulo": "Calendario",
         "headerType": "olympic",
-        "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/UAT/secciones/subseccion/calendario.json",
-        "tipocontenido": "DD",
+        "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/cat-widget-grupo-df/notas/2022-10-06-15-57/nota-para-widget-de-grupos?appView=true",
+        "tipocontenido": "WV",
         "screenname": "El Canal del Mundial - Calendario - SubSection",
         "tipo_contenido": "SubSection",
         "nombre_contenido": "Calendario",
