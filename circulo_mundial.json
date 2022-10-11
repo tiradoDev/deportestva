@@ -3,8 +3,8 @@
   "titulo": "El Canal del Mundial",
   "lookNFeel": {
     "header": {
-      "bgColor": "#081e2f",
-      "imageTitle": "https://s3.amazonaws.com/develop.aztecadeportes.com/app2020/img/logo-compuesto-con-desingancion.png"
+      "bgColor": "#5E0025",
+      "imageTitle": ""
     }
   },
   "cabecera": {
