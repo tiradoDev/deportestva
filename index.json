@@ -1,15 +1,28 @@
- {
+
+{
+  "ultimaGeneracion": "2023-01-27 12:40:07",
+  "stories": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/stories.json",
   "home": "https://tiradodev.github.io/deportestva/home.json",
-  "resultados": "https://develop.aztecadeportes.com/app2020/resultados.json",
+  "resultados": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/selector.json",
   "busqueda": "https://servicios.site/tva/aztecadeportes2019/busqueda.json?term={[SEARCHTXT]}",
   "buzz": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/buzz.json",
   "digitalmas": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/digital-app-2020.json",
-  "vivofeed": "https://tiradodev.github.io/deportestva/vivofeed.json",
-  "config": "https://tiradodev.github.io/deportestva/circulos.json",
-  "actualizacion": "https://tiradodev.github.io/deportestva/actualizacion.json",
+  "vivofeed": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app2020/home/vivofeed/vivoFeed.json",
+  "config": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/configuracion.json",
+  "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
   "vivoheader": {
-    "live_indicator": "on",
-    "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
+    "lives_count": "0",
+    "live_indicator": "off",
+    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app2020/proximos-eventos.json",
     "tipocontenido": "CP"
+  },
+  "lookNFeel": {
+    "topBar": {
+      "gradient": [
+        "#2a3950",
+        "#2a3950"
+      ],
+      "image": "https://s3.amazonaws.com/develop.aztecadeportes.com/app2020/img/logo-blanco-app.png"
+    }
   }
 }
