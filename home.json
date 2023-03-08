@@ -2207,7 +2207,7 @@
     }
   ],
   "vivofeed": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app2020/home/vivofeed/vivoFeed.json",
-  "marcadores": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/marcadoresUAT.json",
+  "marcadores": "https://tiradodev.github.io/deportestva/caliente.json",
   "seldeportes": [
     {
       "tipo": "SELDEP",
