@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "image": "https://s3.amazonaws.com/develop.aztecadeportes.com/app2020/img/logo-caliente.png",
+    "openurl": "https://www.caliente.mx"
+  },
+  "marcadores": [
+    {
+      "titulo": "Futbol",
+      "contenido": "https://tiradodev.github.io/deportestva/calienteFut.json"
+    },
+    {
+      "titulo": "Beisbol",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/barra/beisbol/bar.json"
+    },
+    {
+      "titulo": "NFL",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/barra/americano/bar.json"
+    },
+    {
+      "titulo": "Tenis",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/barra/tenis/bar.json"
+    },
+    {
+      "titulo": "Formula E",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/barra/formulae/bar.json"
+    },
+    {
+      "titulo": "Formula 1",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/barra/formulauno/bar.json"
+    }
+  ]
+}
