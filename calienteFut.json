@@ -6,7 +6,7 @@
       "tipoDeporte": "SOCCER",
       "tipo": "CELDAMARC01",
       "contenido": "https://www.tvazteca.com/aztecadeportes/envivo/uefa-champions-league/2023-03-08/tottenham-vs-milan/",
-      "tipocontenido": "WV",
+      "tipocontenido": "URL",
       "idtorn": "32",
       "CompetitionId": "0",
       "SeasonId": "0",
