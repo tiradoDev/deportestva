@@ -1,136 +1,101 @@
 {
+  "ultimaGeneracion": "2023-03-15 13:07:11",
   "data": [
     {
-      "update": "22-05-2021 09:09:30",
+      "tipo": "BANNER01",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Home-App-BannerCaliente"
+    },
+    {
       "tipo": "LSTHORVV",
       "seccion": "Ritual NFL",
       "data": [
         {
-          "tipo": "CELDAVIVO01",
-          "contenido": "https://snappers-jsons.s3.amazonaws.com/puebla-vs-santos.json",
-          "imagen": "https://snappers-jsons.s3.amazonaws.com/Guardianes.jpeg",
-          "titulo": "Puebla vs Santos Laguna",
-          "subtitulo": "Semifinales",
-          "titulocolor": "#ffffff",
-          "seccion": "MÃ©xico - Liga MX",
-          "tipocontenido": "DP",
-          "private": "1",
-          "privateCfg": "https://www.tvazteca.com/envivo2020/login-appdeportes",
-          "live_indicator": "true",
-          "screenname": "Puebla vs Santos Laguna - Live",
-          "tipo_contenido": "Live",
-          "nombre_contenido": "MÃ©xico - Liga MX - Live",
-          "video_titulo": "MÃ©xico - Liga MX - Live",
-          "video_aviso": "Live",
-          "deporte": "",
-          "liga": "",
-          "is_live": "true",
-          "programa_seccion": "MÃ©xico - Liga MX",
-          "subsecciones": [
-            {}
-          ]
-        },
-        {
-          "titulo": "ComisiÃ³n Disciplinaria impone veto al estadio del Pachuca",
-          "seccion": "Liga MX",
-          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/1fff1cc/2147483647/strip/true/crop/917x516+0+41/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fe9%2F15%2Fc1ea531b4126bdf57c8ec3947753%2Festadio-hidalgo.jpg",
+          "titulo": "Tirado Gran tarde de Erling Haaland al anotar cinco goles con el City",
+          "seccion": "Champions League",
+          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/73d8068/2147483647/strip/true/crop/1200x675+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F20%2Fa5%2F990851f640a780207ea28976b7bb%2Fhaa.jpg",
           "tipo": "CELDAVIVO01",
           "titulocolor": "#ffffff",
           "tipocontenido": "WV",
           "icohex": "f1ea",
-          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/fut-azteca/liga-mx/Notas",
+          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/fut-internacional/champions-league/notas",
           "vast": "",
-          "screenname": "Fut Azteca - Liga MX - Notas - Liga MX - Article",
+          "screenname": "Fut Internacional - Champions League - Article",
           "tipo_contenido": "Article",
-          "nombre_contenido": "ComisiÃ³n Disciplinaria impone veto al estadio del Pachuca",
-          "deporte": "",
-          "liga": "",
-          "programa_seccion": "Fut Azteca",
-          "subsecciones": [
-            "Liga MX",
-            "Notas - Liga MX"
-          ],
-          "contenido": "https://www.tvazteca.com/aztecadeportes/liga-mx/comision-disciplinaria-impone-veto-al-estadio-del-pachuca?appView=true"
-        },
-        {
-          "titulo": "Arsenal se refuerza con futura estrella llamada Leo Messo",
-          "seccion": "Premier League",
-          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/ce3d0d3/2147483647/strip/true/crop/594x334+0+2/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F99%2Fc7%2F0251b13a4c6db435d7a18df2a7ad%2Fleo-messo.jpg",
-          "tipo": "CELDAVIVO01",
-          "titulocolor": "#ffffff",
-          "tipocontenido": "WV",
-          "icohex": "f1ea",
-          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/fut-internacional/premier-league/notas",
-          "vast": "",
-          "screenname": "Fut Internacional - Premier League - Article",
-          "tipo_contenido": "Article",
-          "nombre_contenido": "Arsenal se refuerza con futura estrella llamada Leo Messo",
+          "nombre_contenido": "Gran tarde de Erling Haaland al anotar cinco goles con el City",
           "deporte": "",
           "liga": "",
           "programa_seccion": "Fut Internacional",
           "subsecciones": [
-            "Premier League"
+            "Champions League"
           ],
-          "contenido": "https://www.tvazteca.com/aztecadeportes/premier-league/arsenal-se-refuerza-con-futura-estrella-llamada-leo-messo?appView=true"
+          "contenido": "https://www.tvazteca.com/aztecadeportes/erling-haaland-anota-cinco-manchester-city-leipzig?appView=true",
+          "private": "1",
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-appdeportes"
         },
         {
-          "titulo": "LeBron James no querÃ­a llegar a los Lakers",
-          "seccion": "Otros Deportes",
-          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/b401f8a/2147483647/strip/true/crop/1672x941+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F00%2F58%2F25bc40b043449aca9bdb09052a2f%2Flebron-james-amenazado-de-muerte.jpg",
+          "titulo": "Canelo Ãlvarez promete una gran pelea contra John Ryder el 6 de mayo",
+          "seccion": "Canelo en Jalisco",
+          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/55c61b1/2147483647/strip/true/crop/1394x784+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc7%2F1f%2F6e614f52479bbfe0eb4d643c626b%2Fwhatsapp-image-2023-03-14-at-13-50-27.jpeg",
           "tipo": "CELDAVIVO01",
           "titulocolor": "#ffffff",
           "tipocontenido": "WV",
           "icohex": "f1ea",
-          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Otros-Deportes/NBA/Notas",
+          "adunitid": "",
           "vast": "",
-          "screenname": "Otros Deportes - NBA - Article",
+          "screenname": "Canelo en Jalisco - Notas de Canelo en Jalisco  - Article",
           "tipo_contenido": "Article",
-          "nombre_contenido": "LeBron James no querÃ­a llegar a los Lakers",
+          "nombre_contenido": "Canelo Ãlvarez promete una gran pelea contra John Ryder el 6 de mayo",
           "deporte": "",
           "liga": "",
-          "programa_seccion": "Otros Deportes",
+          "programa_seccion": "Canelo en Jalisco",
           "subsecciones": [
-            "NBA"
+            "Notas de Canelo en Jalisco "
           ],
-          "contenido": "https://www.tvazteca.com/aztecadeportes/otros-deportes/lebron-james-no-queria-llegar-a-los-lakers?appView=true"
+          "contenido": "https://www.tvazteca.com/aztecadeportes/canelo-alvarez-promete-gran-pelea-vs-john-ryder?appView=true"
         },
         {
-          "titulo": "Phil Mickelson comparte el liderato del PGA Championship",
-          "seccion": "Azteca Golf",
-          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/52ed9c6/2147483647/strip/true/crop/1284x722+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F00%2F03%2Fd9a7118940f091a044933ce04cb6%2Fphil-mickelson.png",
+          "titulo": "Resultados de la Champions League hoy Octavos de Final",
+          "seccion": "Champions League",
+          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/1bb3497/2147483647/strip/true/crop/1200x675+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F91%2F92%2F2ed2e92244c98fcaeeb36a864791%2Fc2.jpg",
           "tipo": "CELDAVIVO01",
           "titulocolor": "#ffffff",
           "tipocontenido": "WV",
           "icohex": "f1ea",
-          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/azteca-golf/pga-tour/notas",
+          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/fut-internacional/champions-league/notas",
           "vast": "",
-          "screenname": "Azteca Golf - PGA Tour - Article",
+          "screenname": "Fut Internacional - Champions League - Article",
           "tipo_contenido": "Article",
-          "nombre_contenido": "Phil Mickelson comparte el liderato del PGA Championship",
+          "nombre_contenido": "Resultados de la Champions League hoy Octavos de Final",
           "deporte": "",
           "liga": "",
-          "programa_seccion": "Azteca Golf",
+          "programa_seccion": "Fut Internacional",
           "subsecciones": [
-            "PGA Tour"
+            "Champions League"
           ],
-          "contenido": "https://www.tvazteca.com/aztecadeportes/phil-mickelson-comparte-el-liderato-del-pga-championship?appView=true"
+          "contenido": "https://www.tvazteca.com/aztecadeportes/resutados-champions-league-hoy-octavos-final-manchester-city-inter?appView=true"
+        },
+        {
+          "titulo": "Â¿CuÃ¡nto costarÃ¡n los boletos para Canelo Ãlvarez vs John Ryder?",
+          "seccion": "Box Azteca",
+          "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/99d64be/2147483647/strip/true/crop/1440x810+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9b%2F40%2Fa63cd66e4a21966548aa31223d28%2Fcanelo-alvarez-box-azteca-vuelve-a-jalisco.jpg",
+          "tipo": "CELDAVIVO01",
+          "titulocolor": "#ffffff",
+          "tipocontenido": "WV",
+          "icohex": "f1ea",
+          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/box-azteca/Box-Azteca-Notas",
+          "vast": "",
+          "screenname": "Box Azteca - Notas - Box Azteca - Article",
+          "tipo_contenido": "Article",
+          "nombre_contenido": "Â¿CuÃ¡nto costarÃ¡n los boletos para Canelo Ãlvarez vs John Ryder?",
+          "deporte": "",
+          "liga": "",
+          "programa_seccion": "Box Azteca",
+          "subsecciones": [
+            "Notas - Box Azteca"
+          ],
+          "contenido": "https://www.tvazteca.com/aztecadeportes/precio-boletos-canelo-alvarez-vs-john-ryder?appView=true"
         }
       ]
-    },
-    {
-      "tipo": "CELDAMARCADOR",
-      "tipocontenido": "DP",
-      "contenido": "https://snappers-jsons.s3.amazonaws.com/puebla-vs-santos.json",
-      "local": {
-        "logo": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/666.gif",
-        "titulo": "Puebla",
-        "marcador": "1"
-      },
-      "visitante": {
-        "logo": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/505.gif",
-        "titulo": "Santos Laguna",
-        "marcador": "0"
-      }
     }
   ]
 }
