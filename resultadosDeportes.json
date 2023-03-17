@@ -1,0 +1,52 @@
+{
+  "data": [
+     {
+      "titulo": "Varios",
+      "contenido": "https://tiradodev.github.io/deportestva/resultados.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - fÃºtbol"
+    },
+    {
+      "titulo": "Juan",
+      "contenido": "https://tiradodev.github.io/deportestva/resultadosJuan.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - fÃºtbolInternacional"
+    },
+    {
+      "titulo": "Fut Azteca",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/soccer/fut-azteca.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - fÃºtbol"
+    },
+    {
+      "titulo": "Fut Internacional",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/soccer/fut-internacional.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - fÃºtbolInternacional"
+    },
+    {
+      "titulo": "NFL",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/americano/ultimos.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - nfl"
+    },
+    {
+      "titulo": "BÃ©isbol",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/beisbol/ultimos.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - beisbol"
+    },
+    {
+      "titulo": "Tenis",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/tenis/ultimos.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - tenis"
+    },
+    {
+      "titulo": "Automovilismo",
+      "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/formulas/ultimos.json",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - automovilismo"
+    }
+  ]
+}
