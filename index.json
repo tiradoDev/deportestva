@@ -3,7 +3,7 @@
   "ultimaGeneracion": "2023-01-27 12:40:07",
   "stories": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/stories.json",
   "home": "https://tiradodev.github.io/deportestva/home.json",
-  "resultados": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app/resultados/selector.json",
+  "resultados": "https://tiradodev.github.io/deportestva/resultadosDeportes.json",
   "busqueda": "https://servicios.site/tva/aztecadeportes2019/busqueda.json?term={[SEARCHTXT]}",
   "buzz": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/buzz.json",
   "digitalmas": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/digital-app-2020.json",
