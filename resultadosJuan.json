@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "calendario": "",
+      "data": [
+        {
+          "empate": false,
+          "fecha": "2023-03-11 19:05",
+          "fechaMostrar": "11 marzo 2023 19:05",
+          "ganadorLocal": true,
+          "ganadorVisitante": false,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/498.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/118.gif",
+          "scr1": "1",
+          "scr2": "0",
+          "team1Com": "Cruz Azul",
+          "team2Com": "Pumas UNAM",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "Resultado final"
+        },
+        {
+          "empate": false,
+          "fecha": "2023-03-18 17:00",
+          "fechaMostrar": "18 marzo 2023 17:00",
+          "ganadorLocal": false,
+          "ganadorVisitante": false,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/498.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/4351.gif",
+          "scr1": "0",
+          "scr2": "0",
+          "team1Com": "Cruz Azul",
+          "team2Com": "Atl. de San Luis",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "2023-03-18 17:00"
+        },
+        {
+          "empate": false,
+          "fecha": "2023-03-03 19:05",
+          "fechaMostrar": "03 marzo 2023 19:05",
+          "ganadorLocal": true,
+          "ganadorVisitante": false,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/500.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/498.gif",
+          "scr1": "3",
+          "scr2": "1",
+          "team1Com": "Mazatlán",
+          "team2Com": "Cruz Azul",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "Resultado final"
+        }
+      ],
+      "estadisticas": "",
+      "logo": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/498.gif",
+      "titulo": "Cruz Azul",
+      "verTodos": ""
+    },
+    {
+      "calendario": "",
+      "data": [
+        {
+          "empate": false,
+          "fecha": "2023-03-18 21:10",
+          "fechaMostrar": "18 marzo 2023 21:10",
+          "ganadorLocal": false,
+          "ganadorVisitante": false,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/87.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/104.gif",
+          "scr1": "0",
+          "scr2": "0",
+          "team1Com": "Chivas",
+          "team2Com": "Club América",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "2023-03-18 21:10"
+        },
+        {
+          "empate": false,
+          "fecha": "2023-03-11 21:10",
+          "fechaMostrar": "11 marzo 2023 21:10",
+          "ganadorLocal": false,
+          "ganadorVisitante": true,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/86.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/104.gif",
+          "scr1": "0",
+          "scr2": "2",
+          "team1Com": "Tigres",
+          "team2Com": "Club América",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "Resultado final"
+        },
+        {
+          "empate": false,
+          "fecha": "2023-03-04 19:05",
+          "fechaMostrar": "04 marzo 2023 19:05",
+          "ganadorLocal": false,
+          "ganadorVisitante": true,
+          "logoLocal": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/104.gif",
+          "logoVisitante": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/90.gif",
+          "scr1": "0",
+          "scr2": "3",
+          "team1Com": "Club América",
+          "team2Com": "Pachuca",
+          "tipoDeporte": "SOCCER",
+          "torn": "Clausura 2023",
+          "type": "Resultado final"
+        }
+      ],
+      "estadisticas": "",
+      "logo": "https://s3.amazonaws.com/azteca.stats.service/imagenes/200x200/104.gif",
+      "titulo": "Club América",
+      "verTodos": ""
+    }
+  ],
+  "ultimaGeneracion": "2023-03-17 11:34:33"
+}
