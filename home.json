@@ -16,10 +16,10 @@
         {
           "tipo": "CELDAHOR01",
           "imagen": "https://tv-azteca-brightspot.s3.amazonaws.com/f4/0b/b418f3224bc299d3472526dbd957/poster-liga-mx.jpg",
-          "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/videoteca/resumenes-clausura-2022.json",
+          "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
           "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/fut-azteca/liga-mx/Liga-Mx-Resumen-Liga-Mx",
           "seccion": "",
-          "tipocontenido": "P",
+          "tipocontenido": "DP",
           "screenname": "Videoteca - RESÃšMENES CLAUSURA 2022 - Section",
           "tipo_contenido": "Section",
           "nombre_contenido": "RESÃšMENES CLAUSURA 2022",
