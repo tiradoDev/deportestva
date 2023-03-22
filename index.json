@@ -13,7 +13,7 @@
   "vivoheader": {
     "lives_count": "0",
     "live_indicator": "off",
-    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app2020/proximos-eventos.json",
+    "contenido": "https://tiradodev.github.io/deportestva/vivofeed.json",
     "tipocontenido": "CP"
   },
   "lookNFeel": {
