@@ -42,7 +42,7 @@
           "start_time": "20230321",
           "group_time": "202303211705",
           "dia": "martes 21",
-          "contenido": "https://develop.aztecadeportes.com/app2020/json/soccer/df/mexico---liga-de-expansion/2023-03-21/tepatitlan-vs-cancun-fc.json",
+          "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
           "tipocontenido": "DP",
           "live_indicator": "true",
           "mes": "marzo",
