@@ -29,7 +29,9 @@
           "liga": "",
           "is_live": "false",
           "programa_seccion": "RESÃšMENES CLAUSURA 2022",
-          "subsecciones": ""
+          "subsecciones": "",
+          "private": "1",
+          "privateCfg": "https://tiradodev.github.io/deportestva/login.json"
         },
         {
           "tipo": "CELDAHOR01",
