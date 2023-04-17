@@ -1,6 +1,12 @@
 {
   "data": [
-     {
+    {
+      "titulo": "Personalizado",
+      "contenido": "https://9flh84a1k9.execute-api.us-east-1.amazonaws.com/prod/deportes/personalizacion?im={[IM]}",
+      "tipocontenido": "ES",
+      "firebase_screen": "Resultados - Personalizacion"
+    },
+    {
       "titulo": "Varios",
       "contenido": "https://tiradodev.github.io/deportestva/resultados.json",
       "tipocontenido": "ES",
