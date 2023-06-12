@@ -1,0 +1,180 @@
+{
+  "ultimaGeneracion": "2023-06-12 17:42:08",
+  "data": [
+    {
+      "tipo": "BANNER01",
+      "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Home-App-BannerCaliente"
+    },
+    {
+      "tipo": "LSTHORVV",
+      "seccion": "Ritual NFL",
+      "data": [
+        {
+          "tipo": "CELDAVIVO01",
+          "contenido": "http://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/uefa---nations-league-a/2023-06-14/paises-bajos-vs-croacia.json",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/037ce10/2147483647/strip/true/crop/275x155+0+14/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F53%2F75%2Fc6812b264d8ea8004ba62f7ec1cb%2Fqa2.jpeg",
+          "titulo": "PaÃ­ses Bajos vs Croacia",
+          "subtitulo": "Semifinal 1",
+          "titulocolor": "#ffffff",
+          "seccion": "UEFA - Nations League A",
+          "tipocontenido": "DP",
+          "live_indicator": "true",
+          "screenname": "PaÃ­ses Bajos vs Croacia - Live",
+          "tipo_contenido": "Live",
+          "nombre_contenido": "UEFA - Nations League A - Live",
+          "video_titulo": "UEFA - Nations League A - Live",
+          "video_aviso": "Live",
+          "deporte": "",
+          "liga": "",
+          "is_live": "true",
+          "programa_seccion": "UEFA - Nations League A",
+          "subsecciones": [
+            {}
+          ],
+          "private": "1",
+          "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
+        },
+        {
+          "tipo": "CELDAVIVO01",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/0d9f45b/2147483647/strip/true/crop/1920x1080+1+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbf%2F3c%2F26f44300404f9dc0814c41654c3c%2Fpuebla-vs-toluca-sitio.jpg",
+          "adunitid": "",
+          "titulo": "Puebla vs Toluca",
+          "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/Box-Azteca/Home&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+          "titulocolor": "#ffffff",
+          "seccion": "Puebla vs Toluca",
+          "live_indicator": "true",
+          "tipocontenido": "V",
+          "contenido": "",
+          "videoAssetId": "6232454e369b300826a6f9a4",
+          "screenname": "Puebla vs Toluca - Live",
+          "tipo_contenido": "Live",
+          "nombre_contenido": "Puebla vs Toluca - Live",
+          "video_titulo": "Puebla vs Toluca - Live",
+          "video_aviso": "Live",
+          "deporte": "",
+          "liga": "",
+          "is_live": "true",
+          "programa_seccion": "Puebla vs Toluca",
+          "subsecciones": [
+            {}
+          ],
+          "private": "0",
+          "privateCfg": ""
+        },
+        {
+          "tipo": "CELDAVIVO01",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/97c4a80/2147483647/strip/true/crop/1049x590+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb3%2Ff9%2F8f1a45776365fcae4d7f2daca6ff%2Felsanto-2291257.jpg",
+          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Box-Azteca/Home",
+          "titulo": "Box Azteca - Pierrot VS El santo",
+          "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/Box-Azteca/Home&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+          "titulocolor": "#ffffff",
+          "seccion": "Box Azteca - Pierrot VS El santo",
+          "live_indicator": "true",
+          "tipocontenido": "V",
+          "contenido": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
+          "videoAssetId": "609ad46a7a441137107d7a81",
+          "screenname": "Box Azteca - Pierrot VS El santo - Live",
+          "tipo_contenido": "Live",
+          "nombre_contenido": "Box Azteca - Pierrot VS El santo - Live",
+          "video_titulo": "Box Azteca - Pierrot VS El santo - Live",
+          "video_aviso": "Live",
+          "deporte": "",
+          "liga": "",
+          "is_live": "true",
+          "programa_seccion": "Box Azteca - Pierrot VS El santo",
+          "subsecciones": [
+            {}
+          ],
+          "private": "1",
+          "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
+        },
+        {
+          "titulo": "El negocio de Federer que le dejarÃ­a millones de dÃ³lares",
+          "seccion": "Otros Deportes",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/366c127/2147483647/strip/true/crop/1312x738+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa2%2Fb8%2Fd38ec0e5454688770ef137153abd%2Froger-federer-se-despide-despues-de-24-anos-como-profesional.jpg",
+          "tipo": "CELDAVIVO01",
+          "titulocolor": "#ffffff",
+          "tipocontenido": "WV",
+          "icohex": "f1ea",
+          "adunitid": "",
+          "vast": "",
+          "screenname": "Otros Deportes - Tenis - Article",
+          "tipo_contenido": "Article",
+          "nombre_contenido": "El negocio de Federer que le dejarÃ­a millones de dÃ³lares",
+          "deporte": "",
+          "liga": "",
+          "programa_seccion": "Otros Deportes",
+          "subsecciones": [
+            "Tenis"
+          ],
+          "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/negocio-federer-acompana-iga-swiatek-es2?appView=true"
+        },
+        {
+          "titulo": "Â¿CuÃ¡nto dinero perderÃ¡ Fernando HernÃ¡ndez por la suspensiÃ³n de 12 partidos?",
+          "seccion": "Liga MX",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/a80068f/2147483647/strip/true/crop/2292x1289+0+110/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F68%2F75%2Fcd5473914d58bd640738e2608dd6%2Fcaptura-de-pantalla-2021-05-16-a-las-19.01.02.png",
+          "tipo": "CELDAVIVO01",
+          "titulocolor": "#ffffff",
+          "tipocontenido": "WV",
+          "icohex": "f1ea",
+          "adunitid": "",
+          "vast": "",
+          "screenname": "Fut Azteca - Liga MX - Lo MÃ¡s Destacado de la Liga MX | Notas   - Article",
+          "tipo_contenido": "Article",
+          "nombre_contenido": "Â¿CuÃ¡nto dinero perderÃ¡ Fernando HernÃ¡ndez por la suspensiÃ³n de 12 partidos?",
+          "deporte": "",
+          "liga": "",
+          "programa_seccion": "Fut Azteca",
+          "subsecciones": [
+            "Liga MX",
+            "Lo MÃ¡s Destacado de la Liga MX | Notas  "
+          ],
+          "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/fernando-hernandez-perderia-medio-millon-pesos-por-suspension?appView=true"
+        },
+        {
+          "titulo": "La millonaria cantidad que recibirÃ­a AmÃ©rica por la venta de una de sus figuras",
+          "seccion": "Liga MX",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/1e129d7/2147483647/strip/true/crop/4000x2250+0+206/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2F31%2Feccf8ae24d22b4803902048976df%2Famerica-pierde-por-goleada-ante-pachuca.jpg",
+          "tipo": "CELDAVIVO01",
+          "titulocolor": "#ffffff",
+          "tipocontenido": "WV",
+          "icohex": "f1ea",
+          "adunitid": "",
+          "vast": "",
+          "screenname": "Fut Azteca - Liga MX - Lo MÃ¡s Destacado de la Liga MX | Notas   - Article",
+          "tipo_contenido": "Article",
+          "nombre_contenido": "La millonaria cantidad que recibirÃ­a AmÃ©rica por la venta de una de sus figuras",
+          "deporte": "",
+          "liga": "",
+          "programa_seccion": "Fut Azteca",
+          "subsecciones": [
+            "Liga MX",
+            "Lo MÃ¡s Destacado de la Liga MX | Notas  "
+          ],
+          "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/cuanto-ganaria-america-venta-edson-alvarez?appView=true"
+        },
+        {
+          "titulo": "La prÃ³ximas peleas de box mÃ¡s atractivas: Ryan GarcÃ­a vs Gervonta Davis ",
+          "seccion": "Box Azteca",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/c62427c/2147483647/strip/true/crop/973x547+0+3/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F52%2Fa6%2F99ceacd645ba805f6983740d9dd3%2Fgervonta-davis-ryan-garcia-box.jpg",
+          "tipo": "CELDAVIVO01",
+          "titulocolor": "#ffffff",
+          "tipocontenido": "WV",
+          "icohex": "f1ea",
+          "adunitid": "",
+          "vast": "",
+          "screenname": "Box Azteca - Notas - Box Azteca - Article",
+          "tipo_contenido": "Article",
+          "nombre_contenido": "La prÃ³ximas peleas de box mÃ¡s atractivas: Ryan GarcÃ­a vs Gervonta Davis ",
+          "deporte": "",
+          "liga": "",
+          "programa_seccion": "Box Azteca",
+          "subsecciones": [
+            "Notas - Box Azteca"
+          ],
+          "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/proximas-peleas-box-ryan-garcia-gervonta-davis?appView=true"
+        }
+      ]
+    }
+  ]
+}
