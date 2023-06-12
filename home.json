@@ -2208,7 +2208,7 @@
       "contenido": "https://uat.tv-azteca.psdops.com/aztecadeportes/deandre-hopkins-suspendido-sustancias-prohibidas-es2?appView=true"
     }
   ],
-  "vivofeed": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/app2020/home/vivofeed/vivoFeed.json",
+  "vivofeed": "https://tiradodev.github.io/deportestva/vivofeed.json",
   "marcadores": "https://tiradodev.github.io/deportestva/caliente.json",
   "seldeportes": [
     {
