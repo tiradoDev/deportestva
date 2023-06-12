@@ -7,13 +7,13 @@
   "busqueda": "https://servicios.site/tva/aztecadeportes2019/busqueda.json?term={[SEARCHTXT]}",
   "buzz": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/buzz.json",
   "digitalmas": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/digital-app-2020.json",
-  "vivofeed": "https://tiradodev.github.io/deportestva/vivofeed.json",
+  "vivofeed": "https://tiradodev.github.io/deportestva/seccionEnVivo.json",
   "config": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/configuracion.json",
   "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
   "vivoheader": {
     "lives_count": "0",
     "live_indicator": "off",
-    "contenido": "https://tiradodev.github.io/deportestva/vivofeed.json",
+    "contenido": "https://tiradodev.github.io/deportestva/seccionEnVivo.json",
     "tipocontenido": "CP"
   },
   "lookNFeel": {
