@@ -36,10 +36,10 @@
         {
           "tipo": "CELDAHOR01",
           "imagen": "https://tv-azteca-brightspot.s3.amazonaws.com/4c/27/696b76ca4010942948e5591fd617/poster-seleccion.jpg",
-          "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/videoteca/resumenes-seleccion-mexicana.json",
+          "contenido": "https://golaoapp-4da85.web.app",
           "adunitid": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/seleccion-azteca/Seleccion-Azteca-Resumenes&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID[placeholder]&sz=640x480&vid=[placeholder]&cmsid=2553967&cust_params=duration%3Dover5min&unviewed_position_start=1&ad_rule=1&correlator=",
           "seccion": "",
-          "tipocontenido": "P",
+          "tipocontenido": "WV",
           "screenname": "Videoteca - RESÃšMENES SELECCIÃ“N MEXICANA  - Section",
           "tipo_contenido": "Section",
           "nombre_contenido": "RESÃšMENES SELECCIÃ“N MEXICANA ",
