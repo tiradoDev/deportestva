@@ -216,6 +216,9 @@
       ]
     },
     {
+      "tipo": "BANNERSTOIC"
+    },
+    {
       "titulo": "Contenido Original",
       "subtitulo": "Top producciones",
       "icohex": "f8a9",
@@ -1463,6 +1466,9 @@
           {
             "tipo": "BANNER01",
             "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home"
+          },
+          {
+              "tipo": "BANNERSTOIC"
           },
           {
             "image": "https://tvazteca.brightspotcdn.com/dims4/default/fea2e8d/2147483647/strip/true/crop/1200x675+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F53%2F0f%2F2311113d46d88ecd8692ae6f0fbb%2Fpuebla-vs-america-resumen-liga-bbva-mx.jpg",
@@ -9986,6 +9992,9 @@
       "subsecciones": [
         {}
       ]
+    },
+    {
+      "tipo": "BANNERSTOIC"
     },
     {
       "tipo": "SELDEP",
