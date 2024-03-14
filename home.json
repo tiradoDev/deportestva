@@ -9715,7 +9715,6 @@
     }
   ],
   "vivofeed": "https://tiradodev.github.io/deportestva/vivofeed.json",
-  "marcadores": "https://tiradodev.github.io/deportestva/caliente.json",
   "seldeportes": [
     {
       "tipo": "SELDEP",
