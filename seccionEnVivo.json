@@ -9,6 +9,44 @@
       "tipo": "LSTHORVV",
       "seccion": "Ritual NFL",
       "data": [
+            {
+      "titulo": "Wednesday 24",
+      "subtitulo": "April",
+      "icohex": "f133",
+      "data": [
+        {
+          "start_time": "20240424",
+          "group_time": "202404242330",
+          "dia": "Wednesday 24",
+          "mes": "April",
+          "tipo": "EDIT06",
+          "titulo": "DBUT FC ",
+          "subtitulo": "23:30",
+          "group_end": "202404250030",
+          "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/D-But/D-But-Envivo",
+          "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/App-Deportes-2020/D-But/D-But-Envivo&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+          "destacarhome": "false",
+          "gif": "",
+          "destacarcarrusel": "true",
+          "live_indicator": "true",
+          "contenido": "https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8",
+          "videoAssetId": "609b243156cca108312822a6",
+          "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/3b06f7f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2Fe2%2F57549dd044aab3b3a1aa8956f798%2Fdbutfcsitio.jpg",
+          "screenname": "DBUT FC  - Live",
+          "tipo_contenido": "Live",
+          "nombre_contenido": "DBUT FC  - Live",
+          "video_titulo": "DBUT FC  - Live",
+          "video_aviso": "Live",
+          "deporte": "",
+          "liga": "",
+          "is_live": "true",
+          "programa_seccion": "DBUT FC ",
+          "subsecciones": [
+            {}
+          ]
+        }
+      ]
+    },
         {
           "tipo": "CELDAVIVO01",
           "contenido": "https://tiradodev.github.io/deportestva/detalle_partido.json",
