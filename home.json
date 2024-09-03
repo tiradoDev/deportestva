@@ -1,5 +1,5 @@
 {
-  "ultimaGeneracion": "2024-09-03 12:17:06",
+  "ultimaGeneracion": "2024-09-03 12:23:06",
   "data": [
     {
       "tipo": "VIVOGIF",
@@ -20,7 +20,9 @@
       "is_live": "true",
       "programa_seccion": "Box Azteca Canela uat",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ],
       "private": "1",
       "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
@@ -44,7 +46,9 @@
       "is_live": "true",
       "programa_seccion": "Gears of War",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ],
       "private": "1",
       "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
@@ -1126,7 +1130,7 @@
           "unselcolor": "#ffffffff",
           "data": [
             {
-              "titulo": "La "amenaza" del 'Chicharito' HernÃ¡ndez previo al Chivas vs Toluca",
+              "titulo": "La \"amenaza\" del 'Chicharito' HernÃ¡ndez previo al Chivas vs Toluca",
               "tipo": "CELDATIT",
               "titulocolor": "#054a94",
               "adunitid": "29782907/Apps-Azteca/App-Deportes-2020/fut-azteca/liga-mx/EnVivo",
@@ -1136,7 +1140,7 @@
               "icolocal": "nota",
               "screenname": "Fut Azteca - Liga MX - Lo MÃ¡s Destacado de la Liga MX | Notas   - Article",
               "tipo_contenido": "Article",
-              "nombre_contenido": "La "amenaza" del 'Chicharito' HernÃ¡ndez previo al Chivas vs Toluca",
+              "nombre_contenido": "La \"amenaza\" del 'Chicharito' HernÃ¡ndez previo al Chivas vs Toluca",
               "deporte": "",
               "liga": "",
               "programa_seccion": "Fut Azteca",
@@ -1347,7 +1351,9 @@
           "is_live": "true",
           "programa_seccion": "Experimenta la emociÃ³n Ãºnica del torneo FC presencial en CDMX con Elektra EN VIVO",
           "subsecciones": [
-            {}
+            {
+              
+            }
           ]
         },
         {
@@ -1369,7 +1375,9 @@
           "is_live": "true",
           "programa_seccion": "AHORA: Canelo vs MunguÃ­a EN VIVO, transmisiÃ³n gratis y cobertura minuto a minuto desde Las Vegas",
           "subsecciones": [
-            {}
+            {
+              
+            }
           ]
         },
         {
@@ -1391,7 +1399,9 @@
           "is_live": "true",
           "programa_seccion": "Experimenta la emociÃ³n Ãºnica del torneo FC presencial en CDMX con Elektra EN VIVO",
           "subsecciones": [
-            {}
+            {
+              
+            }
           ]
         },
         {
@@ -1413,7 +1423,9 @@
           "is_live": "true",
           "programa_seccion": "AHORA: Canelo vs MunguÃ­a EN VIVO, transmisiÃ³n gratis y cobertura minuto a minuto desde Las Vegas",
           "subsecciones": [
-            {}
+            {
+              
+            }
           ]
         }
       ]
@@ -1828,7 +1840,7 @@
       "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
     }
   ],
-  "update": "03-09-2024 12:17:06",
+  "update": "03-09-2024 12:23:07",
   "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home",
   "vivofeed": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/vivoFeedUAT.json",
   "marcadores": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/marcadoresUAT.json",
@@ -1853,7 +1865,9 @@
       "is_live": "",
       "programa_seccion": "Fut Azteca",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1876,7 +1890,9 @@
       "is_live": "",
       "programa_seccion": "NFL",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1899,7 +1915,9 @@
       "is_live": "",
       "programa_seccion": "SelecciÃ³n Azteca",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1922,7 +1940,9 @@
       "is_live": "",
       "programa_seccion": "Fut Internacional",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1945,7 +1965,9 @@
       "is_live": "",
       "programa_seccion": "Box Azteca",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1968,7 +1990,9 @@
       "is_live": "",
       "programa_seccion": "Esports",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -1991,7 +2015,9 @@
       "is_live": "",
       "programa_seccion": "FÃ³rmula E",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -2014,7 +2040,9 @@
       "is_live": "",
       "programa_seccion": "Home Run Azteca",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -2037,7 +2065,9 @@
       "is_live": "",
       "programa_seccion": "Los Protagonistas",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -2060,7 +2090,9 @@
       "is_live": "",
       "programa_seccion": "Azteca Golf",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -2083,7 +2115,9 @@
       "is_live": "",
       "programa_seccion": "Lucha Azteca",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     },
     {
@@ -2106,7 +2140,9 @@
       "is_live": "",
       "programa_seccion": "Otros Deportes",
       "subsecciones": [
-        {}
+        {
+          
+        }
       ]
     }
   ]
