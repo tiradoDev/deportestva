@@ -38,6 +38,7 @@
           "liga": "",
           "is_live": "true",
           "programa_seccion": "Gears of War",
+          "activateGeoblocking": "true",
           "subsecciones": [
             {}
           ]
