@@ -1,5 +1,5 @@
 {
-  "ultimaGeneracion": "2024-09-03 12:11:09",
+  "ultimaGeneracion": "2024-09-03 12:17:06",
   "data": [
     {
       "tipo": "VIVOGIF",
@@ -1828,7 +1828,7 @@
       "privateCfg": "https://uat.tv-azteca.psdops.com/envivo2020/Login-appDeportes"
     }
   ],
-  "update": "03-09-2024 12:11:10",
+  "update": "03-09-2024 12:17:06",
   "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/home",
   "vivofeed": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/vivoFeedUAT.json",
   "marcadores": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/marcadoresUAT.json",
