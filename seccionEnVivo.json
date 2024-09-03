@@ -15,7 +15,7 @@
           "tipo": "EDIT06",
           "titulo": "Celaya vs TapatÃ­o",
           "subtitulo": "19:00",
-          "group_end": "202404242100",
+          "group_end": "202410242100",
           "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/eb478d8/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F71%2F97c43e9c457eb9f7f1724d52ec73%2Fcelayavstapatio.jpg",
           "screenname": "Celaya vs TapatÃ­o - Live",
           "tipo_contenido": "Live",
@@ -26,8 +26,9 @@
           "liga": "",
           "is_live": "true",
           "programa_seccion": "Celaya vs TapatÃ­o",
-          "private": "0",
-          "privateCfg": "",
+          "private": "1",
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+          "activateGeoblocking": "true",
           "subsecciones": [
             {}
           ]
