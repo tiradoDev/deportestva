@@ -11,7 +11,6 @@
   "config": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/configuracion.json",
   "actualizacion": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/colmena/appdeportes2020/actualizar.json",
   "vivoheader": {
-    "lives_count": "0",
     "live_indicator": "on",
     "contenido": "https://tiradodev.github.io/deportestva/seccionEnVivo.json",
     "tipocontenido": "CP"
