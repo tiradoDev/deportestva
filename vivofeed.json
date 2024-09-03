@@ -29,6 +29,7 @@
           "deporte": "",
           "liga": "",
           "is_live": "true",
+          "activateGeoblocking": "true",
           "programa_seccion": "Box Azteca - Pierrot VS El santo",
           "subsecciones": [
             {}
