@@ -22,7 +22,7 @@
           "gif": "",
           "destacarcarrusel": "true",
           "safeModeConfig": "true",
-          "activateGeoblocking": "",
+          "activateGeoblocking": "false",
           "live_indicator": "true",
           "tipocontenido": "V",
           "private": "1",
