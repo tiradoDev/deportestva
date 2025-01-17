@@ -49,6 +49,7 @@
           "seccion": "Gears of War",
           "live_indicator": "true",
           "tipocontenido": "V",
+          "encenderPreguntas": "true",
           "safeModeConfig": "true",
           "activateGeoblocking": "",
           "contenido": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
